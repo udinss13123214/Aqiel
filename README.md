@@ -8,7 +8,7 @@ Lulusan SMK NEGERI 6 Surakarta Jurusan Pengembangan Perangkat Lunak dan Gim (PPL
 
 * 🖥️  See my portfolio at [My Personal Website](http://udinss13123214.github.io/WebpribadiQL/)
 * ✉️  You can contact me at [aqieladhi1506@gmail.com](mailto:aqieladhi1506@gmail.com)
-* ⚡  Lanjut Kuliah Di UNS Prodi Informatika
+* ⚡  Lanjut Kuliah Di UNS Prodi Informatika.
 
 ### Skills
 
